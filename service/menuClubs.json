@@ -1,1 +1,2 @@
-[{"imagenURL":"http://testm2c.fybeca.net/LogoClub/ClubFybeca/bbitos.png","codigoClub":"1","nombreClub":"CLUB BBITOS"},{"imagenURL":"http://testm2c.fybeca.net/LogoClub/ClubFybeca/beauty.png","codigoClub":"8","nombreClub":"CLUB DE LA BELLEZA"}]
+[{"logoURL":"https://www.fybeca.com/ClubFybeca/vitalcard/menuPrincipal/tarjetaVirtual.png","nombreMenu":"Tarjeta Virtual","archivoAbrir":"virtualcard.html"},
+{"logoURL":"https://www.fybeca.com/ClubFybeca/vitalcard/menuPrincipal/cupones.png","nombreMenu":"Tus Cupones","archivoAbrir":"app/views/vouchers.html"}]
